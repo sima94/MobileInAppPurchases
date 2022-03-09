@@ -13,4 +13,5 @@ end
 
 target 'PluginTests' do
   capacitor_pods
+  pod 'SwiftyStoreKit', '~> 0.16'
 end
